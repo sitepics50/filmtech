@@ -1,0 +1,417 @@
+.body {
+    background-color:white;
+}
+.mc {
+    position: absolute;
+    font-size:15px;
+    Color:#444444;
+    
+}
+.icon{
+    margin:5px;
+    height:140px;
+    width:100px;
+    font-weight:bold;
+    margin-right: 40px;
+  padding:0px;
+
+   }
+.icon-container {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: scroll;  
+  background:blue;
+  border-radius:5px; 
+  border:2px solid white;
+  background:yellow;
+  padding:20px;
+}
+
+#jkl {
+    position: fixed;
+    height:90px;
+    top:0px;
+    right:0px;
+    left:0px;
+    background-color: black;
+}
+.pci {
+    border-radius:90px;
+    height:40px;
+    width:40px;
+    position: absolute;
+    top:15px;
+    left:15px;
+}
+.fjn {
+    color:white;
+    font-weight:bold;
+    font-size:20px;
+    position: absolute;
+    top:20px;
+    left:65px;
+}
+#fbt {
+    position: fixed;
+    height:70px;
+    bottom:0px;
+    right:0px;
+    left:0px;
+    background-color:white ;
+    border:2px solid blue;
+}
+.hmo {
+    position: absolute;
+    top:15px;
+    left:15%;
+    height:20px;
+    width:20px;
+}
+.msc {
+    position: absolute;
+    top:15px;
+    height:21.5px;
+    width:21.5px;
+    left:35%;
+}
+.vdo {
+    position: absolute;
+    top:15px;
+    right:37%;
+    height:20px;
+    width:20px;
+}
+.mssg {
+    position: absolute;
+    top:15px;
+    right:15%;
+    height:20px;
+    width:20px;
+}
+.hmn{
+    font-size:5px;
+    position: absolute;
+    bottom:15px;
+    left:15%;
+    font-weight:bold;
+}
+.msn {
+     position: absolute;
+    bottom:15px;
+    font-weight:bold;
+    font-size:5px;
+    left:35%;
+}
+.vdn {
+      position: absolute;
+    bottom:15px;
+    right:37%;
+    font-size:5px;
+    font-weight:bold;
+}
+.msg {
+      position: absolute;
+    bottom:15px;
+    right:13%;
+    font-size:5px;
+    font-weight:bold;
+}
+.pjn {
+    height:300px;
+    width:50px;
+}
+.ifr {
+    height:150px;
+    width:280px;
+    position: absolute;
+    left:20px;
+}
+.vio {
+    color:black;
+    font-weight:bold;
+    font-size:30px;
+    position: absolute;
+    left:30px;
+    top:15px;
+}
+#ivo{
+    position: absolute;
+    left:0px;
+    right:0px;
+    height:60px;
+    background-color:blue;
+}
+.mh {
+    background-color:#ff80dd;
+    position:fixed;
+    height:150px;
+    right:0px;
+    left:0px;
+    top:80px;
+    border:2px solid blue;
+}
+.mch {
+    border-radius:10px;
+    height:120px;
+    width:120px;
+    position: absolute;
+    top:10px;
+    left:15px;
+}
+.tm {
+   font-size:20px;
+   font-weight:bold;
+   position: absolute;
+   top:15px;
+   left:150px;
+   color:white;
+}
+.sgi {
+    position: absolute;
+    left:5px;
+}
+.bpj {
+    border-radius:5px;
+    height:115px;
+    width:115px;
+    position: absolute;
+    left:20px;
+    top:220px;    
+}
+.km {
+    font-size:15px;
+    font-weight:bold;
+    position: absolute;
+    left:140px;
+    color:white;
+    top:230px;
+}
+.ab {
+    border-radius:5px;
+    height:115px;
+    width:115px;
+    position: absolute;
+    left:20px;
+    top:370px;    
+}
+.aa {
+    font-size:15px;
+    font-weight:bold;
+    position: absolute;
+    left:140px;
+    color:white;
+    top:380px;
+}
+.ac {
+    border-radius:5px;
+    height:115px;
+    width:115px;
+    position: absolute;
+    left:20px;
+    top:520px;    
+}
+.ad {
+    font-size:15px;
+    font-weight:bold;
+    position: absolute;
+    left:140px;
+    color:white;
+    top:530px;
+}
+.ae {
+    border-radius:5px;
+    height:115px;
+    width:115px;
+    position: absolute;
+    left:20px;
+    top:670px;    
+}
+.af {
+    font-size:15px;
+    font-weight:bold;
+    position: absolute;
+    left:140px;
+    color:white;
+    top:680px;
+}
+.ag {
+    border-radius:5px;
+    height:115px;
+    width:115px;
+    position: absolute;
+    left:20px;
+    top:820px;    
+}
+.ah {
+    font-size:15px;
+    font-weight:bold;
+    position: absolute;
+    left:140px;
+    color:white;
+    top:830px;
+}
+.aps {
+   color:#616161a5;
+   font-size:12px;
+   font-weight:bold;
+   position:fixed;
+   background:white;
+   left:50px;
+}
+.gms{
+    border-radius:90px;
+    height:35px;
+    width:35px;
+    position: absolute;
+    right:35px;
+    top:18px;
+}
+.gmg{
+    border-radius:90px;
+    height:15px;
+    width:15px;
+    position: absolute;
+    right:20px;
+    top:18px;
+}
+.btun {
+    position: absolute;
+    height:20px;
+    width:50px;
+    outline:white;
+    outline-color:white;
+    border:2px solid white;
+    right:150px;
+    background-color:#158cff;
+    top:20px;
+    font-size:5px;
+    border-radius:3px;
+}
+.utb {
+    position: absolute;
+    height:20px;
+    width:50px;
+    outline:white;
+    outline-color:white;
+    border:2px solid white;
+    right:90px;
+    background-color:#2bff2e;
+    top:20px;
+    font-size:5px;
+    border-radius:3px;
+}
+.ntf{
+    font-weight:bold;
+    font-size:15px;
+    color: white;
+    position:absolute;
+    
+    right:180px;
+}
+.gtr{
+ border-radius:5px;
+    height:112px;
+    width:117px;
+    position: absolute;
+    left:20px;
+    top:865px;    
+}
+.gt{
+    font-weight:bold;
+    font-size:20px;
+    color: white;
+    position:absolute;
+    top:870px;
+    right:60px;
+}
+.seec{
+    position: absolute;
+    top:50px;
+    border-radius:90px;
+    height:35px;
+    width:240px;
+    background:white;
+    left:50px;
+}
+.sre{
+    position: absolute;
+    top:5px;
+    left:22px;
+    outline:white;
+    hairline:white;
+    border: 2px solid white;
+    border-radius:90px;
+    height:25px;
+    background:white;
+}
+#playButton {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  
+}
+.mda{
+    position: absolute;
+    
+    left:30px;
+    font-size:15px;
+    font-weight:bold;
+
+}
+#playerButton {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  
+}
+.play {
+    position: absolute;
+    background:#55ffac;
+    height:20px;
+    width:50px;
+    margin-top:0px;
+    right:78px;
+}
+.pause {
+     position: absolute;
+    background:#55ffac;
+    height:20px;
+    width:50px;
+    right:25px;
+    margin-top:0px;
+    backdrop-filter:blur (20px);
+}
+.player {
+    position:absolute;
+    height:50px;
+    width:220px;
+    background:#fff155;
+    margin-top:2px;
+    left:12px;
+    border-radius:90px;
+    font-size:12px;
+}
+.dwn{
+    text-decoration:none;
+    font-size:10px;
+    margin-left:40px;
+}
+.nbm{
+    margin-top:0px;
+    margin-left:0px;    
+    font-size:10px;
+}
